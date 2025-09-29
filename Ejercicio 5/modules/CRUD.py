@@ -50,4 +50,4 @@ def mostrar_menu_reportes():
     print("3. Reporte de Clientes VIP")
     print("4. Reporte de Juegos Más Vendidos") 
     print("0. Volver al Menú Principal")
-    print("-"*30)
+    
