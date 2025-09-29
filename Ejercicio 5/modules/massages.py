@@ -1,0 +1,12 @@
+def mostrar_menu_principal():
+    print("\n" + "="*40)
+    print("  SISTEMA DE GESTIÓN DE TIENDA DE VIDEOJUEGOS")
+    print("="*40)
+    print("1. Gestión de Inventario")
+    print("2. Gestión de Clientes")
+    print("3. Gestión de Ventas")
+    print("4. Gestión de Empleados")
+    print("5. Reportes Analíticos")
+    print("0. Salir")
+    print("="*40)
+    option=int(input("que quieres hacer el día de hoy: "))
